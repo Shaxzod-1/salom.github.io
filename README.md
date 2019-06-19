@@ -1,4 +1,4 @@
-## Welcome Abdurasul
+## Welcome My friends.It's my first web-site.
 
 You can use the [editor on GitHub](https://github.com/Shaxzod-1/salom.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
